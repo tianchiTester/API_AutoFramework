@@ -1,0 +1,2 @@
+com.qa.report.TestTheReport testAssert1 2018-07-29 18:18:13 14毫秒 SUCCESS
+com.qa.report.TestTheReport testAssert1 2018-07-29 18:18:13 2毫秒 FAILURE
